@@ -7,6 +7,4 @@ install:
   - pip install pytest
 
 script:
-
-after_success:
   - python a.py
